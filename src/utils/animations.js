@@ -3,7 +3,7 @@ import anime from 'animejs'
 
 const sr = ScrollReveal()
 
-function animations () {
+function animations() {
     sr.reveal('.headline', {
         duration: 600,
         distance: '20px',

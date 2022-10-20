@@ -52,7 +52,7 @@ function App() {
                   <a className="button button-primary" href="#contact">
                     ¡Contactanos!
                   </a>
-                  {/**<a className="button" href="/">Calcular Precio</a> */}
+                  <a className="button" href="/">Calcular Precio</a>
                 </div>
               </div>
               <div className="hero-figure anime-element hero-figure-relative">
@@ -186,7 +186,7 @@ function App() {
               </li>
               <li>
                 <a
-                  href="https://wa.me/526391683782"
+                  href="https://wa.me/526391886298"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
